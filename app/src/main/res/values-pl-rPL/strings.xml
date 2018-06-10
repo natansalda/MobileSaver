@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ratownik</string>
+    <string name="btn_txt_help">NUMER ALARMOWY</string>
+    <string name="btn_txt_fall">UPADEK</string>
+    <string name="btn_txt_call">ZADZWOŃ</string>
+</resources>
